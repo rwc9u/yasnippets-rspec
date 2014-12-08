@@ -30,3 +30,8 @@ I am assuming you have yasnippets installed.
 * should{,_not} eq{ua}l matcher order is now natural
 * should{_not} {match,=~} order is now natural
 * should_{redirect,render,respond} order is now natural
+
+## Differences from upstream fork
+
+* Changed rspec snippets to be in their own rspec group.
+* Updated installation to remove older initialization of yas.
