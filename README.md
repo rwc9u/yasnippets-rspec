@@ -1,4 +1,4 @@
-# yasnippets snippet definitions for use with rSpec
+# rspec yasnippets
 
 ## Installation
 
